@@ -1,0 +1,33 @@
+h1 {
+  font-family: "Fredericka the Great", cursive;
+  font-size: 60px;
+  color: #30475e;
+}
+hr {
+  size: 5px;
+}
+h3 {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 40px;
+  color: #f05454;
+}
+p {
+  font-family: "Tangerine", cursive;
+  font-size: 40px;
+}
+div {
+  padding: 20px;
+  margin: 40px;
+  border: solid;
+  border-color: black;
+}
+h2 {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 40px;
+  color: #f05454;
+}
+li {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 30px;
+  color: #222831;
+}
