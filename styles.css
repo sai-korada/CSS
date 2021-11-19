@@ -1,33 +1,28 @@
-h1 {
-  font-family: "Fredericka the Great", cursive;
-  font-size: 60px;
-  color: #30475e;
-}
-hr {
-  size: 5px;
-}
-h3 {
-  font-family: "Cabin Sketch", cursive;
-  font-size: 40px;
-  color: #f05454;
-}
-p {
-  font-family: "Tangerine", cursive;
-  font-size: 40px;
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
 }
 div {
-  padding: 20px;
-  margin: 40px;
-  border: solid;
-  border-color: black;
+  padding: 10px;
+  width: 200px;
+  height: 300px;
+  margin: 100px;
+  background-color: #eeeeee;
+  border-radius: 10px;
 }
-h2 {
-  font-family: "Cabin Sketch", cursive;
-  font-size: 40px;
-  color: #f05454;
+ul {
+  padding: unset;
+  margin: 15px 0px 0px 0px 0px;
+  list-style-type: none;
+}
+span {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Raleway", sans-serif;
+  color: black;
 }
 li {
-  font-family: "Cabin Sketch", cursive;
-  font-size: 30px;
-  color: #222831;
+  font-family: "Inter", sans-serif;
+  color: black;
 }
