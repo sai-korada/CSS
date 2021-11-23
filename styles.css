@@ -1,28 +1,18 @@
-img {
-  height: 200px;
-  width: 200px;
+.block {
+  height: 500px;
+  width: 500px;
+  /*background-color: red;*/
+  background-image: url(image.png);
+  background-size: cover;
+  background-attachment: scroll;
+  border: 1px solid black;
   border-radius: 10px;
 }
-div {
-  padding: 10px;
+p {
+  height: 100px;
   width: 200px;
-  height: 300px;
-  margin: 100px;
-  background-color: #eeeeee;
-  border-radius: 10px;
-}
-ul {
-  padding: unset;
-  margin: 15px 0px 0px 0px 0px;
-  list-style-type: none;
-}
-span {
-  display: flex;
-  justify-content: space-around;
-  font-family: "Raleway", sans-serif;
-  color: black;
-}
-li {
-  font-family: "Inter", sans-serif;
-  color: black;
+  background-image: url("image.png");
+  background-attachment: fixed, scroll;
+  background-repeat: no-repeat, repeat-y;
+  border: 1px solid black;
 }
